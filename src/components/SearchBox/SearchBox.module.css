@@ -4,7 +4,6 @@
     gap: 8px;
     width: 320px;
     box-sizing: border-box;
-    margin-bottom: 16px;
 }
 
 .input {
@@ -26,4 +25,12 @@
     color: #c65b31;
     font-size: 18px;
     font-weight: 700;
+}
+
+.divSpiner {
+    display: flex;
+    width: 900px;
+    align-items: end;
+    justify-content: space-between;
+    margin-bottom: 16px;
 }
